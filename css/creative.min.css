@@ -2564,13 +2564,13 @@
  .btn-primary {
      color: #fff;
      background-color: #28a12e;
-     border-color: #f4623a
+     border-color: #28a12e
  }
 
  .btn-primary:hover {
      color: #fff;
-     background-color: #f24516;
-     border-color: #ee3e0d
+     background-color: #228627;
+     border-color: #228627
  }
 
  .btn-primary.focus,
