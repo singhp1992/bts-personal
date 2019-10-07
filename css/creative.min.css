@@ -10827,7 +10827,7 @@
      text-align: center;
      opacity: 0;
      color: #fff;
-     background: rgba(244, 98, 58, .9);
+     background: #6baf6ead;
      transition: opacity .25s ease;
      text-align: center
  }
