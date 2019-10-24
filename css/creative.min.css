@@ -51,6 +51,8 @@
      -webkit-tap-highlight-color: transparent
  }
 
+ /* Scroll css  */
+
  .container {
      position: relative;
      width: 24px;
