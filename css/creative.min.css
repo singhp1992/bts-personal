@@ -53,6 +53,10 @@
 
  /* Scroll css  */
 
+ .scroll-animation {
+     display: block;
+ }
+
  .scroll {
      display: flex;
      justify-content: center;
